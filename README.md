@@ -1,4 +1,4 @@
-This is a (Next.js)https://nextjs.org project bootstraped with (create-next-app)https://nextjs.org/docs/app/api-reference/cli/create-next-app.
+[Backend Repo](https://github.com/Mohit0205ms/NIYAMR_AI_Server)
 
 ## Getting Started
 
